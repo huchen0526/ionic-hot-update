@@ -2,7 +2,7 @@
   "apps": [
     {
       "appId": "cec51269",
-      "dependencyInstallCommand": "npm install"
+      "dependencyInstallCommand": "npm ci"
     }
   ]
 }

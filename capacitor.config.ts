@@ -1,17 +1,17 @@
-import { CapacitorConfig } from '@capacitor/cli';
+import { CapacitorConfig } from "@capacitor/cli";
 
 const config: CapacitorConfig = {
-  appId: 'io.ionic.starter',
-  appName: 'hot-update',
-  webDir: 'www',
+  appId: "io.ionic.starter",
+  appName: "hot-update",
+  webDir: "www",
   server: {
-    androidScheme: 'https',
+    androidScheme: "https",
   },
   plugins: {
     LiveUpdates: {
-      appId: 'cec51269',
-      channel: 'Production',
-      autoUpdateMethod: 'background',
+      appId: "cec51269",
+      channel: "development",
+      autoUpdateMethod: "background",
       maxVersions: 4,
     },
   },
