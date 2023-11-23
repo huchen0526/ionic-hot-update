@@ -27,6 +27,13 @@ export class DataService {
       id: 0,
       read: false,
     },
+    {
+      fromName: "Xena Cheng",
+      subject: "asdfasdfafdsa",
+      date: "9:32 AM",
+      id: 2,
+      read: false,
+    },
   ];
   // [
   // {
