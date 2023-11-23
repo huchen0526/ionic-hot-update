@@ -20,6 +20,13 @@ export class DataService {
       id: 0,
       read: false,
     },
+    {
+      fromName: "Ossa Tu",
+      subject: "asdfasdfafdsa",
+      date: "9:32 AM",
+      id: 0,
+      read: false,
+    },
   ];
   // [
   // {
