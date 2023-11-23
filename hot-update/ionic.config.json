@@ -1,0 +1,7 @@
+{
+  "name": "hot-update",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
